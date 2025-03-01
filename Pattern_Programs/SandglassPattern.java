@@ -9,7 +9,7 @@
 // *
 
 
-public class Pattern10 {
+public class SandglassPattern {
     
     public static void main(String[] args) {
         

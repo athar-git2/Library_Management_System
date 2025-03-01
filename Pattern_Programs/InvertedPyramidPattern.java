@@ -5,7 +5,7 @@
 //    ***
 //     *
 
-public class Pattern8 {
+public class InvertedPyramidPattern {
     
     public static void main(String[] args) {
         

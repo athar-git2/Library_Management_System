@@ -5,7 +5,7 @@
 // ******
 // ******
 
-public class Pattern1{
+public class RectanglePattern{
     public static void main(String[] args) {
         
         int n = 6;

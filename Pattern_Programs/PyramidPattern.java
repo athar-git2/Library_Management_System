@@ -4,7 +4,7 @@
 //  *******
 // *********
 
-public class Pattern7 {
+public class PyramidPattern {
     
     public static void main(String[] args) {
         

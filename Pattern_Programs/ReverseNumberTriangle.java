@@ -5,7 +5,7 @@
 // 22
 // 1
 
-public class Pattern12 {
+public class ReverseNumberTriangle {
     
     public static void main(String[] args) {
         

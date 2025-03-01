@@ -4,7 +4,7 @@
 // 0 1 0 1
 // 1 0 1 0 1
 
-public class Pattern11 {
+public class BinaryTriangle {
     
     public static void main(String[] args) {
         int n = 5;

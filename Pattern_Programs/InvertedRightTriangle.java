@@ -4,7 +4,7 @@
 // **
 // *
 
-public class Pattern5{
+public class InvertedRightTriangle{
     public static void main(String[] args) {
         
         int n = 5;
