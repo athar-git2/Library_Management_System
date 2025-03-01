@@ -97,7 +97,7 @@ git clone https://github.com/Athar59/DSA_Java.git
 ## 📧 Contact 📥  
 
 💡 Have questions or suggestions? Feel free to reach out:
-📩 Email: mdathar7262@gmail.com
+  📩 Email: mdathar7262@gmail.com
 ---  
 
 🔥 **Happy Coding!** 🔥
