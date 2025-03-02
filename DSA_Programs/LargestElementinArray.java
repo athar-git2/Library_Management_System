@@ -16,9 +16,7 @@ public class LargestElementinArray {
         
     }
 	public static void main (String[] args) throws java.lang.Exception
-	{
-		// your code goes here
-		
+	{	
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.print("Enter no of elements: ");
@@ -41,6 +39,7 @@ public class LargestElementinArray {
 }
 
 
+//Output**************
 
 // Enter no of elements: 5
 // Enter number 1:56
