@@ -7,12 +7,7 @@ public class MoveZeroesToEnd
     public static int[] moveZeroes(int[] arr,int n)
     {
         int j = -1;
-
-        //place the pointer j: 
-        //if there is no any 0 present in array
-        //return the non zero array elements
-        //if found zero assign the index of 0 to j
-        
+  
         for(int i =0;i<n;i++)
         {
             if(arr[i] == 0)
@@ -24,10 +19,7 @@ public class MoveZeroesToEnd
 
             if(j == -1) return arr;
         
-            //0 found at j index
-            //i will always start from j+1 index
-
-        for(int i = j+1;i<n;i++)
+        for(int i = j+1 ;i < n; i++)
         {
             if(arr[i] != 0)
             {
@@ -82,7 +74,6 @@ public class MoveZeroesToEnd
 
 // public class MoveZeroesToEnd {
 //         public static int[] moveZeros(int n, int []a) {
-//         // Write your code here.
 
 //         ArrayList<Integer> temp = new ArrayList<>();
 
