@@ -11,8 +11,8 @@ public class RotateArrayLeftBy_K_Elements {
         }
 
         k = k % n;
-        if(k > n)
-        {
+        if(k == 0)
+        { 
             return;
         }
         
@@ -29,7 +29,7 @@ public class RotateArrayLeftBy_K_Elements {
            arr[i] =  arr[i+k];
          }
 
-         for(int i = n-k ; i < k;i++)
+         for(int i = 0 ; i < k;i++)
          {
             arr[n - k + i] = temp[i];
          }
