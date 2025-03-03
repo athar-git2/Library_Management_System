@@ -74,8 +74,9 @@ This folder contains **pattern printing programs** using loops:
 
 This folder contains **sorting techniques**:  
 
-🔹 **Selection Sort** → Sorts an array by repeatedly finding the minimum element  
-🔹 **Bubble Sort** → Repeatedly swaps adjacent elements if they are in the wrong order  
+🔹 **Selection Sort** → Sorts an array by repeatedly finding the minimum element.  
+🔹 **Bubble Sort** → Repeatedly swaps adjacent elements if they are in the wrong order.  
+🔹 **Insertion Sort** → Sorts an array by picking one element at a time and placing it in its correct position in the sorted part.  
 
 ---  
 
