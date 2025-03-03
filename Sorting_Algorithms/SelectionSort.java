@@ -51,9 +51,5 @@ public class SelectionSort {
 //OUTPUT*******************    //time complexity  O(N^2) 
 
 // Enter no of elements: 5
-// 23
-// 98
-// 23
-// 56
-// 12
-// After Sorting: 12 23 23 56 98 
+// 23 98 24 56 12
+// After Sorting: 12 23 24 56 98 
