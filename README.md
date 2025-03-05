@@ -36,6 +36,8 @@ This folder contains programs for various **DSA concepts**:
 
 🔹 **VowelCheck.java** → Check if a character is a vowel  
 
+🔹 **PalindromeNumber.java** → Determine whether a number is a palindrome by reversing and comparing it to the original.
+
 ---  
 
 ### 🔹 Pattern_Programs 🎨  
