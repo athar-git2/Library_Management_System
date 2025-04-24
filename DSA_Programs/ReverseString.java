@@ -11,11 +11,6 @@ class ReverseString{
 
     public static String reverse(String s)
     {
-        if(s==null)
-        {
-            System.out.println("Null String");
-        }
-
         StringBuilder sb = new StringBuilder();
 
        char[] ch = s.toCharArray();
